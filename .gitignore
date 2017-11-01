@@ -1,0 +1,15 @@
+# Python binary
+*.pyc
+__pycache__
+
+# IDE files
+.idea
+
+# Virtualenv
+ENV
+
+# Databases
+*.sqlite3
+
+# Media
+media
